@@ -19,7 +19,7 @@ class PHPSDKTestCase extends PHPUnit_Framework_TestCase {
   const APP_ID = '117743971608120';
   const SECRET = '9c8ea2071859659bea1246d33a9207cf';
 
-  const MIGRATED_APP_ID = '174236045938435';
+#  const MIGRATED_APP_ID = '174236045938435';
   const MIGRATED_SECRET = '0073dce2d95c4a5c2922d1827ea0cca6';
 
   const TEST_USER   = 499834690;
